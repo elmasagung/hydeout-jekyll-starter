@@ -1,13 +1,12 @@
 ---
-title: Hydeout
-tagline: A Jekyll theme
-description: The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme
-  for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.
-url: 
-baseurl:
+title: Elmas Agung
+tagline: Elmas Agung Blog
+description: Elmas Agung Blog
+url: elmas.xyz
+baseurl: ''
 author:
-  name: Andrew Fong
-  url: https://twitter.com/fongandrewc
+  name: Elmas Agung
+  url: https://twitter.com/elmasagung
 paginate: 5
 exclude:
 - README.md
@@ -22,10 +21,11 @@ theme_colors:
   sidebar-fg-color: "#FFFFFF"
   link-color: "#000000"
 sidebar-sticky: true
-layout-reverse: false
+layout-reverse: true
 remote_theme: fongandrew/hydeout
 google_analytics: ''
 disqus:
   shortname: ''
-
 theme: jekyll-theme-hydeout
+markdown: ''
+highlighter: ''
